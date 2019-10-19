@@ -8,11 +8,20 @@
   url = "#about"
   weight = 10
 
+[[main]]
+  name = "Work Experience"
+  url = "#experience"
+  weight = 25
 
 [[main]]
   name = "Projects"
   url = "#projects"
   weight = 30
+
+[[main]]
+  name = "Skills"
+  url = "#skills"
+  weight = 20
 
 [[main]]
   name = "Publications"
@@ -28,5 +37,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "files/resume.pdf"
+  url = "files/cv.pdf"
   weight = 70
