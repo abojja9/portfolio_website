@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-18T19:16:06-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/flack/</loc>
+    <lastmod>2019-10-18T19:16:06-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-10-18T19:16:06-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/computer-vision/</loc>
+    <lastmod>2019-10-18T19:15:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2019-10-18T19:15:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/facial-key-point-detection/</loc>
+    <lastmod>2019-10-18T19:15:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/facial_key_point_detection/</loc>
+    <lastmod>2019-10-18T19:15:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-18T19:15:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/handseg/</loc>
+    <lastmod>2019-10-18T19:01:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/0/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/handseg_paper/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/abhishake-kumar-bojja-franziska-mueller-sri-raghu-malireddi-markus-oberweger-vincent-lepetit-christian-theobalt-kwang-moo-yi-andrea-tagliasacchi/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ofdm/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dipen-bepari-abhishake-kumar-bojja-b.-sandeep-kumar-debjani-mitra/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+</urlset>

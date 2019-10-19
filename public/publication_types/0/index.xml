@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Academic</title>
+    <link>/publication_types/0/</link>
+      <atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>0</title>
+      <link>/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>HandSeg: An Automatically Labeled Dataset for Hand Segmentation from Depth Images</title>
+      <link>/publication/handseg_paper/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/handseg_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Spectral Distance Based Power Control Scheme for Capacity Enhancement of OFDM Cognitive Radio</title>
+      <link>/publication/ofdm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ofdm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
