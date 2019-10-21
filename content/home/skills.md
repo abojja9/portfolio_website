@@ -50,6 +50,12 @@ subtitle = ""
   name = "Computer Vision"
   description = ""
 
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Natural Language Processing"
+  description = ""  
+
 
 
 [[feature]]
