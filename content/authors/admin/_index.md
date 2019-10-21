@@ -70,6 +70,6 @@ email: "abhishekbojja9@gmail.com"
 
 I am a Computer Science Graduate student at the [University of Victoria](https://www.uvic.ca/engineering/computerscience/index.php), living on the beautiful Vancouver Island, Canada. I work as a Research Assistant in the [Visual Computing Lab](https://vision.uvic.ca/people/kmyi/).
 
-For the past two years, I was on a mission to teach computers to see by leveraging Machine Learning and Deep Learning. I currently research on novel algorithms for Real-Time semantic segmentation on low power devices. 
+From the past two years, I am on a mission to teach computers to see by leveraging Machine Learning and Deep Learning. I currently research on novel algorithms for Real-Time semantic segmentation on low power devices. 
 
 I have significant experience in Software Development through my Research Assistant and Intern positions.
