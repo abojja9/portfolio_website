@@ -24,6 +24,7 @@ interests:
 - Machine Learning
 - Deep Learning
 - Computer Vision
+- Natural Language Processing
 - Software Development
 
 education:

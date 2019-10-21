@@ -28,6 +28,7 @@ date_format = "Jan 2006"
   **Responsibilities**:
   
   * Developing novel algorithms for Real-Time Semantic Segmentation on Low Power Devices.
+  * Developing algorithms for domain adaptation of semantic segmentation of hands using Generative Adversarial Networks (GANs).
   * Developed and open-sourced a large scale dataset containing 200k annotated depth images and deep-learning architectures for hand segmentation.
     
     * More information on this [project page](https://vision.uvic.ca/pubs/2019/bojja2019handseg/page.md)
