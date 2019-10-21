@@ -47,6 +47,7 @@ date_format = "Jan 2006"
   **Responsibilities** :
   
 * Designed and Developed an end-to-end Deep-Learning based computer vision pipeline to remove shadows from images caused due to varying illumination conditions. The **Shadow Removal** algorithm I developed has improved the company's existing algorithms performance by 95% and is ready for deployment in production.
+* Researched and Developed Domain Adaption algorithms using Generative Adversarial Networks (GAN's) for the Shadow-Removal project. 
 * Worked with an experienced team of Senior Software Engineers that followed industry-proven disciplined agile methodology for development.
 * Project management using tools like JIRA to create, assign, and submit tasks, manage task descriptions and task timelines.
 
